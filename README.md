@@ -1,7 +1,6 @@
--This project was created for the purpose of learning and practicing coding the Reactjs app
-
--Check out the video of Ania Kobów for more information and step by step on how to make this project
--Credit: Code with Ania Kubów (YouTube) 
+- This project was created for the purpose of learning and practicing coding the Reactjs app
+- Check out the video of Ania Kobów for more information and step by step on how to make this project
+- Credit: Code with Ania Kubów (YouTube) 
 
 # Crypto Dashboard in React and Nodejs
 
